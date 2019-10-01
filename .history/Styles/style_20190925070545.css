@@ -1,0 +1,47 @@
+/*
+#D9CEB2
+#948C75
+#D5DED9
+#7A6A53
+#99B2B7
+ */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background: #D5DED9;
+    color: #7A6A53;
+    font-family: 'Open Sans', sans-serif;
+    /* background-image: url("../Images/john-fowler-aaIN3y2zcMQ-unsplash.jpg"); */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 10px;
+}
+
+em {
+    color: #D9CEB2;
+}
+
+.site-header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: right;
+    background-size: cover;
+}
+
+.background-container {
+
+}
+
+.code {
+    font-family: 'Fira Mono', monospace;
+}
+
+.display-picture {
+    border-radius: 50%;
+}

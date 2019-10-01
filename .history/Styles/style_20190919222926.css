@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background: #e9dddd;
+    color: #3c5a5b;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: right;
+    background-image: url("../Images/jenny-caywood-HVDGuo36s6k-unsplash.jpg");
+}
+
+.code {
+    font-family: 'Fira Mono', monospace;
+}
+
+.display-picture {
+    border-radius: 50%;
+    size: 50%;
+}
